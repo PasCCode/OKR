@@ -10,6 +10,7 @@
 
 - Ich erstelle eine Übersicht, wie mein Traumjob aussehen soll und aktualisiere diese alle zwei Wochen
 - Ich halte mich wöchentlich auf dem Laufenden, was in der Start-Up Szene passiert
+- Ich fasse Stellenprofile zusammen, die mich interessieren
 
 ### Ich schärfe mein Profil (NETWORKING)
 
