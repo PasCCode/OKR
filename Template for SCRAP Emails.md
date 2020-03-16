@@ -34,4 +34,3 @@
 *Schicken Sie mir eine Nachricht, falls/wenn ...*
 *Vielen Dank noch einmal für ...*
 *Ich freue mich auf ...*
-
